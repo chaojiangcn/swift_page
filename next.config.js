@@ -1,6 +1,6 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-    basePath: '/swift_page'
+    // basePath: './'
 }
 
 module.exports = nextConfig
