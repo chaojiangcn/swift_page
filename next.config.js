@@ -1,6 +1,6 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-    // basePath: './'
+    basePath: '.',
     output: 'export', // 到处为静态文件
 }
 
